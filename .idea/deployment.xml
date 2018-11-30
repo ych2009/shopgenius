@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="Centos7_SHOPGENIUS">
+    <serverData>
+      <paths name="Centos7_SHOPGENIUS">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/data/wwwroot" local="$PROJECT_DIR$/../" web="/data/wwwroot" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
